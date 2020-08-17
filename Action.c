@@ -1,6 +1,6 @@
 Action()
 {
-  //This is my first GIT Pull and commit
+
 	web_add_auto_header("Sec-Fetch-Site", 
 		"none");
 
